@@ -1,5 +1,6 @@
 # C-Eigenvalue-and-Eigenvector-of-a-Matrix-
-Computing Eigenvalues and Eigenvectors using Normalized Power Iteration together with Deflation
+Written in C++
+Computing Eigenvalues and Eigenvectors using Normalized Power Iteration together with Deflation 
 
 This program gives the result of 2 dominant Eigenvalues and first eigenevector and prints them to given txt
 
